@@ -11,3 +11,7 @@
 venv/
 __PYCACHE__
 *.pyc
+
+# Application Specific
+videos/
+downloaded_videos.json
