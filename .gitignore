@@ -1,0 +1,13 @@
+# OS
+.DS_Store
+
+# Dev
+.idea/
+.vscode/
+*.swp
+
+# Python
+.venv/
+venv/
+__PYCACHE__
+*.pyc
