@@ -1,3 +1,5 @@
 neovim
 clipboard
 youtube_dl
+requests
+beautifulsoup4
